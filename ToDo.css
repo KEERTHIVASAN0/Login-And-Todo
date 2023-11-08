@@ -18,14 +18,12 @@ h2{font-weight: 800;
   }
 
 .container{
-    width: 40%;
-    min-width: 450px;
-    position: absolute;
-    margin: auto;
-    left: 0;
-    right: 0;
-    top: 30px;
-    padding: 30px 40px;
+    width: 80%;
+    height: 80%;
+    margin:10vh auto 0 auto;
+    background-color: rgb(245, 245, 245);
+    border-radius: 5px;
+    padding:30px;
 }
 #newtask{
     position: relative;
